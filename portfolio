@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="Портфоліо, веб-дизайн, послуги">
+    <meta name="description" content="Професійне портфоліо веб-дизайнера">
+    <meta name="author" content="Fedorova Anastasia">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Моє Портфоліо</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body style="background-color: lavender; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; font-size: 1em;">
+
+    <table width="960" align="center" cellpadding="0" cellspacing="0" bgcolor="white" style="box-shadow: 0 0 20px rgba(0,0,0,0.15);">
+
+        <tr>
+            <td colspan="3" bgcolor="darkslateblue" style="padding: 1.5em; text-align: center;">
+                <h1 style="color: white; margin: 0; font-size: 2.5em; letter-spacing: 0.1em;">МОЄ ПОРТФОЛІО</h1>
+                <p style="color: lightsteelblue; margin: 0.5em 0 0 0; font-size: 1.1em;">Веб-дизайнер | Front-End розробник</p>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3" bgcolor="slategray" style="padding: 0.8em; text-align: center;">
+                <a href="#services" style="color: white; text-decoration: none; margin: 0 1.5em; font-size: 1.05em;">Послуги</a>
+                <a href="#works" style="color: white; text-decoration: none; margin: 0 1.5em; font-size: 1.05em;">Роботи</a>
+                <a href="#achievements" style="color: white; text-decoration: none; margin: 0 1.5em; font-size: 1.05em;">Досягнення</a>
+                <a href="#contacts" style="color: white; text-decoration: none; margin: 0 1.5em; font-size: 1.05em;">Контакти</a>
+            </td>
+        </tr>
+        <tr>
+            <td width="200" valign="top" bgcolor="aliceblue" style="padding: 1.5em;">
+                <h3 style="color: darkslateblue; text-align: center; font-size: 1.2em;">Про мене</h3>
+                <img src="https://avatarko.ru/img/kartinka/14/zhivotnye_kot_13379.jpg" alt="Фото" width="150" height="150" style="display: block; margin: 1em auto; border-radius: 50%; border: 3px solid darkslateblue;">
+                <p style="text-align: center; color: #333; font-size: 0.95em; line-height: 1.6em;">
+                    Привіт! Я професійний веб-дизайнер з 3-річним досвідом створення сучасних та функціональних веб-сайтів.
+                </p>
+                
+                <h4 style="color: darkslateblue; margin-top: 1.5em; font-size: 1.1em;">Навички:</h4>
+                <ul style="color: #333; font-size: 0.9em; line-height: 1.8em;">
+                    <li>HTML5 / CSS3</li>
+                    <li>JavaScript</li>
+                    <li>Responsive Design</li>
+                    <li>Adobe Photoshop</li>
+                    <li>Figma</li>
+                </ul>
+            </td>
+
+            <td width="560" valign="top" style="padding: 2em;">
+                <section id="services">
+                    <h2 style="color: darkslateblue; text-align: center; border-bottom: 3px solid slategray; padding-bottom: 0.5em; font-size: 1.8em;">Мої Послуги</h2>
+                    
+                    <table width="100%" cellpadding="15" cellspacing="0" style="margin-top: 1.5em;">
+                        <tr>
+                            <td width="50%" valign="top" bgcolor="lavender" style="border: 2px solid slategray; border-radius: 8px;">
+                                <h3 style="color: darkslateblue; text-align: center; font-size: 1.3em;">🎨 Веб-дизайн</h3>
+                                <p style="text-align: center; color: #333; font-size: 0.95em; line-height: 1.6em;">
+                                    Створення унікальних дизайнів сайтів, що відповідають сучасним трендам та потребам вашого бізнесу.
+                                </p>
+                                <p style="text-align: center; color: darkslateblue; font-weight: bold; font-size: 1.1em;">від 5000 грн</p>
+                            </td>
+                            <td width="50%" valign="top" bgcolor="lightcyan" style="border: 2px solid slategray; border-radius: 8px;">
+                                <h3 style="color: darkslateblue; text-align: center; font-size: 1.3em;">💻 Верстка</h3>
+                                <p style="text-align: center; color: #333; font-size: 0.95em; line-height: 1.6em;">
+                                    Адаптивна верстка будь-якої складності з використанням сучасних технологій HTML5 та CSS3.
+                                </p>
+                                <p style="text-align: center; color: darkslateblue; font-weight: bold; font-size: 1.1em;">від 3000 грн</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" height="20"></td>
+                        </tr>
+                        <tr>
+                            <td width="50%" valign="top" bgcolor="mistyrose" style="border: 2px solid slategray; border-radius: 8px;">
+                                <h3 style="color: darkslateblue; text-align: center; font-size: 1.3em;">🔧 Підтримка</h3>
+                                <p style="text-align: center; color: #333; font-size: 0.95em; line-height: 1.6em;">
+                                    Технічна підтримка та оновлення контенту вашого веб-сайту. Швидке реагування на запити.
+                                </p>
+                                <p style="text-align: center; color: darkslateblue; font-weight: bold; font-size: 1.1em;">від 1500 грн/міс</p>
+                            </td>
+                            <td width="50%" valign="top" bgcolor="honeydew" style="border: 2px solid slategray; border-radius: 8px;">
+                                <h3 style="color: darkslateblue; text-align: center; font-size: 1.3em;">📱 SEO оптимізація</h3>
+                                <p style="text-align: center; color: #333; font-size: 0.95em; line-height: 1.6em;">
+                                    Оптимізація сайту для пошукових систем. Покращення видимості в Google та інших пошуковиках.
+                                </p>
+                                <p style="text-align: center; color: darkslateblue; font-weight: bold; font-size: 1.1em;">від 4000 грн</p>
+                            </td>
+                        </tr>
+                    </table>
+                </section>
+
+                <section id="works" style="margin-top: 3em;">
+                    <h2 style="color: darkslateblue; text-align: center; border-bottom: 3px solid slategray; padding-bottom: 0.5em; font-size: 1.8em;">Приклади Робіт</h2>
+                    
+                    <table width="100%" cellpadding="10" cellspacing="0" style="margin-top: 1.5em;">
+                        <tr>
+                            <td align="center">
+                                <img src="https://kartinki.pics/uploads/posts/2022-12/1669972033_kartinkin-net-p-koshka-vkontakte-57.jpg" alt="Проект 1" width="160" height="120" hspace="10" vspace="10" style="border: 3px solid slategray; border-radius: 5px;">
+                            </td>
+                            <td align="center">
+                                <img src="https://fotkiflo.ru/wp-content/uploads/kak-narisovat-kotenka-s-milymi-glazkami-malenkogo-chernogo-i-belogo-1.webp" alt="Проект 2" width="160" height="120" hspace="10" vspace="10" style="border: 3px solid slategray; border-radius: 5px;">
+                            </td>
+                            <td align="center">
+                                <img src="https://i.pinimg.com/474x/e5/a4/fb/e5a4fb8bf1554d0ee5094be637a58c29.jpg" alt="Проект 3" width="160" height="120" hspace="10" vspace="10" style="border: 3px solid slategray; border-radius: 5px;">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" style="color: #333; font-size: 0.9em;">
+                                <strong>Інтернет-магазин</strong><br>E-commerce платформа
+                            </td>
+                            <td align="center" style="color: #333; font-size: 0.9em;">
+                                <strong>Корпоративний сайт</strong><br>Бізнес-презентація
+                            </td>
+                            <td align="center" style="color: #333; font-size: 0.9em;">
+                                <strong>Лендінг</strong><br>Промо-сторінка
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" height="15"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                <img src="https://sotni.ru/wp-content/uploads/2023/08/niashnye-kotiki-4.webp" alt="Проект 4" width="160" height="120" hspace="10" vspace="10" style="border: 3px solid slategray; border-radius: 5px;">
+                            </td>
+                            <td align="center">
+                                <img src="https://sotni.ru/wp-content/uploads/2023/08/rikhard-donskis-khudozhnik-19.webp" alt="Проект 5" width="160" height="120" hspace="10" vspace="10" style="border: 3px solid slategray; border-radius: 5px;">
+                            </td>
+                            <td align="center">
+                                <img src="https://sotni.ru/wp-content/uploads/2023/08/milye-risunki-3.webp" alt="Проект 6" width="160" height="120" hspace="10" vspace="10" style="border: 3px solid slategray; border-radius: 5px;">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" style="color: #333; font-size: 0.9em;">
+                                <strong>Блог</strong><br>Особистий сайт автора
+                            </td>
+                            <td align="center" style="color: #333; font-size: 0.9em;">
+                                <strong>Портфоліо</strong><br>Творче портфоліо
+                            </td>
+                            <td align="center" style="color: #333; font-size: 0.9em;">
+                                <strong>Онлайн-сервіс</strong><br>Web-додаток
+                            </td>
+                        </tr>
+                    </table>
+                </section>
+
+                <section id="achievements" style="margin-top: 3em;">
+                    <h2 style="color: darkslateblue; text-align: center; border-bottom: 3px solid slategray; padding-bottom: 0.5em; font-size: 1.8em;">Досягнення та Нагороди</h2>
+                    
+                    <table width="100%" cellpadding="12" cellspacing="0" border="1" bordercolor="slategray" style="margin-top: 1.5em; border-collapse: collapse;">
+                        <thead>
+                            <tr bgcolor="darkslateblue" style="color: white;">
+                                <th align="center" style="font-size: 1em;">Рік</th>
+                                <th align="left" style="font-size: 1em;">Досягнення</th>
+                                <th align="center" style="font-size: 1em;">Місце</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr bgcolor="aliceblue">
+                                <td align="center" style="font-size: 0.95em;"><strong>2024</strong></td>
+                                <td style="font-size: 0.95em;">Переможець конкурсу "Кращий веб-дизайн року"</td>
+                                <td align="center" style="font-size: 0.95em;">🥇 1 місце</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 0.95em;"><strong>2023</strong></td>
+                                <td style="font-size: 0.95em;">Сертифікація Google UX Design Professional</td>
+                                <td align="center" style="font-size: 0.95em;">✅ Сертифікат</td>
+                            </tr>
+                            <tr bgcolor="aliceblue">
+                                <td align="center" style="font-size: 0.95em;"><strong>2023</strong></td>
+                                <td style="font-size: 0.95em;">Учасник міжнародного хакатону WebDev Challenge</td>
+                                <td align="center" style="font-size: 0.95em;">🥈 2 місце</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 0.95em;"><strong>2022</strong></td>
+                                <td style="font-size: 0.95em;">Диплом "Молодий спеціаліст року" від IT Academy</td>
+                                <td align="center" style="font-size: 0.95em;">🏆 Диплом</td>
+                            </tr>
+                            <tr bgcolor="aliceblue">
+                                <td align="center" style="font-size: 0.95em;"><strong>2022</strong></td>
+                                <td style="font-size: 0.95em;">Завершення курсу Advanced CSS and Sass (Udemy)</td>
+                                <td align="center" style="font-size: 0.95em;">✅ Сертифікат</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </section>
+
+            </td>
+
+            <td width="200" valign="top" bgcolor="floralwhite" style="padding: 1.5em;">
+                <h3 id="contacts" style="color: darkslateblue; text-align: center; font-size: 1.2em;">Контакти</h3>
+                
+                <table width="100%" cellpadding="8" cellspacing="0">
+                    <tr>
+                        <td style="color: #333; font-size: 0.9em;">
+                            <strong>📧 Email:</strong><br>
+                            your.email@example.com
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="color: #333; font-size: 0.9em;">
+                            <strong>📱 Телефон:</strong><br>
+                            +38 (098) 123-45-67
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="color: #333; font-size: 0.9em;">
+                            <strong>🌐 Соц. мережі:</strong><br>
+                            <a href="#" style="color: darkslateblue;">LinkedIn</a><br>
+                            <a href="#" style="color: darkslateblue;">GitHub</a><br>
+                            <a href="#" style="color: darkslateblue;">Behance</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="color: #333; font-size: 0.9em;">
+                            <strong>📍 Локація:</strong><br>
+                            Черкаси, Україна
+                        </td>
+                    </tr>
+                </table>
+
+                <h4 style="color: darkslateblue; margin-top: 2em; text-align: center; font-size: 1.1em;">Замовити послугу</h4>
+                <div style="text-align: center; margin-top: 1em;">
+                    <button style="background-color: darkslateblue; color: white; padding: 0.8em 1.5em; border: none; border-radius: 5px; cursor: pointer; font-size: 1em;">
+                        Зв'язатись
+                    </button>
+                </div>
+
+                <div style="margin-top: 2em; padding: 1em; background-color: lavender; border-radius: 5px; text-align: center;">
+                    <p style="color: darkslateblue; font-size: 0.85em; margin: 0; line-height: 1.5em;">
+                        <strong>💡 Знижка 15%</strong><br>
+                        на перше замовлення для нових клієнтів!
+                    </p>
+                </div>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3" bgcolor="darkslateblue" style="padding: 1.5em; text-align: center; color: white;">
+                <hr style="height: 1px; background-color: lightsteelblue; border-width: 0px; margin-bottom: 1em;">
+                <p style="margin: 0; font-size: 0.95em;">
+                    &copy; 2025 Федорова Анастасія | Студентка СТФК НУХТ, група КН-23
+                </p>
+                <p style="margin: 0.5em 0 0 0; font-size: 0.85em; color: lightsteelblue;">
+                    Дата створення: <time>05 грудня 2025</time>
+                </p>
+                <p style="margin: 0.5em 0 0 0; font-size: 0.8em; color: lightsteelblue;">
+                    Сайт створено з використанням табличної верстки HTML5
+                </p>
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
